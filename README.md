@@ -6,6 +6,7 @@
 
 ### About me
 
-- Website https://deoncn.top
+- Website 
+- Deon's blog https://deoncn.top
 
 [Ask me anything!](https://github.com/deoncn/deoncn/issues/new)
