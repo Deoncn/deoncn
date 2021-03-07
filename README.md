@@ -4,8 +4,6 @@
 
 发霉大学狗 
 
-VPS:[狗云！](https://www.dogyun.com/?ref=deoncn)
-
 ### About me
 
 - Website 
