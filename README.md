@@ -1,8 +1,6 @@
-![Deoncn's GitHub stats](https://github-readme-stats.vercel.app/api?username=deoncn&show_icons=true&theme=white)
+![Deoncn's GitHub stats](https://github-readme-stats.vercel.app/api?username=deoncn&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ### Hi I'm Deon 👋
-
-发霉大学狗 
 
 ### About me
 
