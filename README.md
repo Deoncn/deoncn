@@ -3,7 +3,24 @@
 ![:Deoncn](https://count.getloli.com/get/@deoncn?theme=rule34)
 
 
-<h1 id="hitokoto_text">:D 获取中...</h1><hr/>
+
+<script>
+  fetch('https://v1.hitokoto.cn')
+    .then(response => response.json())
+    .then(data => {
+      const hitokoto = document.getElementById('hitokoto_text')
+      hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
+      hitokoto.innerText = data.hitokoto
+    })
+    .catch(console.error)
+</script>				<!--一言Javascript + html-->
+
+
+
+
+
+
+<h1 id="hitokoto_text">:D 获取中...</h1>
 
 ### Hi I'm Deon 👋
 
