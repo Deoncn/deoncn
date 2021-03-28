@@ -2,6 +2,9 @@
 
 ![:Deoncn](https://count.getloli.com/get/@deoncn?theme=rule34)
 
+
+<h1 id="hitokoto_text">:D 获取中...</h1><hr/>
+
 ### Hi I'm Deon 👋
 
 ### About me
