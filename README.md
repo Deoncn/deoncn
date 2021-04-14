@@ -9,6 +9,6 @@
 ### About me
 
 - Website 
-- Deon's blog https://deoncn.top
+- Deon's blog https://deoncn.github.io
 
 [Ask me anything!](https://github.com/deoncn/deoncn/issues/new)
