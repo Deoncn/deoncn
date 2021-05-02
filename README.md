@@ -8,7 +8,7 @@
 
 ### About me
 
-- Website 
-- Deon's blog https://deoncn.github.io
+- 
+- my github pages https://deoncn.github.io
 
 [Ask me anything!](https://github.com/deoncn/deoncn/issues/new)
