@@ -8,7 +8,5 @@
 
 ### About me
 
-- 
-- my github pages https://deoncn.github.io
-
+- No,about me.
 [Ask me anything!](https://github.com/deoncn/deoncn/issues/new)
