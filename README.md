@@ -1,6 +1,6 @@
 <!-- ##
 <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" /> -->
-<img align="right" width="300" src="https%3A//count.getloli.com/get/@deoncn" />
+<img align="right" width="300" src="https://count.getloli.com/get/@deoncn" />
 
 
 
