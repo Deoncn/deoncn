@@ -2,7 +2,7 @@
 
 $\color{#DA70D6}{Watching.}$ 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deoncn)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--👇 
